@@ -10,7 +10,7 @@ Config has shadows/postfx enabled. Turn them off if you have potato gpu
 
 Toggle crouch/sprint are better in this game. Much easier to do jumps in training range. Had problems because I always use hold. Was an easy fix.
 
-trihard 1440x1080 no pitch/yaw options :(
+trihard 1920x1440 4:3 no pitch/yaw options :(
 
 ## SCREENS
 

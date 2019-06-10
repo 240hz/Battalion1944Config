@@ -1,5 +1,10 @@
 # my Battalion 1944 Config
 
+###Locations
+
+In your instaltion directory: ~\steamapps\common\Battalion 1944\Battalion\configs\custom\ custom1.config
+#### Default: C:\Program Files (x86)\Steam\steamapps\common\Battalion 1944\Battalion\configs\custom\ custom1.config
+
 ### notes
 
 200 FPS CAP ResidentSleeper
@@ -15,7 +20,7 @@ trihard 1920x1440 4:3 no pitch/yaw options :(
 
 
 ## SCREENS
-these are old screens it looks even better now
+these are old screens it looks better now
 
 https://i.imgur.com/L1ThELd.jpg
 

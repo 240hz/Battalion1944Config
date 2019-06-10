@@ -23,10 +23,7 @@ trihard 1920x1440 4:3 no pitch/yaw options :(
 
 
 ## SCREENS
-these are old screens it looks better now
 
-https://i.imgur.com/L1ThELd.jpg
+https://i.imgur.com/GSsA1LL.jpg
 
-https://i.imgur.com/eOFJlu6.jpg
-
-
+https://i.imgur.com/J9sl4eA.jpg

@@ -1,9 +1,12 @@
 # my Battalion 1944 Config
 
-###Locations
+### Locations
 
 In your instaltion directory: ~\steamapps\common\Battalion 1944\Battalion\configs\custom\ custom1.config
+
+
 #### Default: C:\Program Files (x86)\Steam\steamapps\common\Battalion 1944\Battalion\configs\custom\ custom1.config
+
 
 ### notes
 
